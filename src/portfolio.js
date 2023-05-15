@@ -26,8 +26,8 @@ const greeting = {
     "Software Developer and Technical writer. Using cutting edge technologies to learn and successfully deliver solutions to problems",
   resumeLink:
     "https://docs.google.com/document/d/1SSEt8r-y4u8DM9WWgG1cwfq6Y_FMw7c-mC52IZaXTgs/edit?usp=sharing",
-  portfolio_repository: "https://github.com/japheth-joepari-portfolio",
-  githubProfile: "https://github.com/japheth-joepari",
+  portfolio_repository: "https://github.com/Japheth-Joepari/joeparicodes",
+  githubProfile: "https://github.com/Japheth-Joepari/joeparicodes",
 };
 
 const socialMediaLinks = [
@@ -75,12 +75,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Front End Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
         "⚡ Currently exploring mobile app development using React Native",
-        "⚡ Creating Fullstack Backend Applications in PHP, NextJs and Laravel",
+        "⚡ Creating Fullstack ReactJs Applications in NextJs",
       ],
       softwareSkills: [
         {
@@ -119,13 +119,15 @@ const skills = {
             color: "#61DAFB",
           },
         },
+
         {
-          skillName: "Laravel",
-          fontAwesomeClassname: "simple-icons:laravel",
+          skillName: "NextJs",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
           style: {
-            color: "#E34F26",
+            color: "#61DAFB",
           },
         },
+
         {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
@@ -140,13 +142,26 @@ const skills = {
             color: "#2C8EBB",
           },
         },
+      ],
+    },
+    {
+      title: "BackEnd  Development",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Proficiency in server-side programming languages and databases such as PHP, Laravel and MysQL",
+        "⚡ Currently working  on multiple cloud platforms",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Strong database management skills, including setting up database connections, designing schemas, and implementing efficient data retrieval and storage mechanisms",
+      ],
+      softwareSkills: [
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
-            color: "#663399",
+            color: "#E34F26",
           },
         },
+
         {
           skillName: "PHP",
           fontAwesomeClassname: "simple-icons:php",
@@ -154,38 +169,7 @@ const skills = {
             color: "#02569B",
           },
         },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Currently working  on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Setting up streams from DB to Server",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
+
         {
           skillName: "Mysql",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -193,6 +177,23 @@ const skills = {
             color: "#1488C6",
           },
         },
+
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+
         {
           skillName: "Heroku",
           fontAwesomeClassname: "simple-icons:heroku",
@@ -376,11 +377,21 @@ const experience = {
       title: "Work/Internships >>",
       experiences: [
         {
+          title: "FrontEnd Engineer",
+          company: "Email Genius",
+          company_url: "https://www.linkedin.com/in/japheth-joepari/",
+          logo_path: "emailgenius.webp",
+          duration: "Jan 2023 - Till Date",
+          location: "Remote",
+          description: `I had the privilege of joining an exceptional team comprising talented front-end developers and engineers. Together, we worked on developing and expanding an impressive AI-driven platform for generating and sending emails. Collaborating closely with cross-functional teams, including UX, Product, and Engineering, we delivered innovative and user-friendly solutions. Leveraging the power of Next.js, I contributed to the development of visually stunning, high-performance, and scalable web applications. I ensured that the designs were responsive and seamlessly adaptable to various devices and browsers. Additionally, I actively contributed to enhancing code quality and performance by implementing optimization techniques, adhering to best practices, and resolving any identified bugs. To remain at the forefront of our industry, I continuously kept myself updated with the latest front-end technologies and trends. Being part of a team that revolutionized the email marketing industry through the transformative potential of AI filled me with immense pride.`,
+          color: "#fc1f20",
+        },
+        {
           title: "Full Stack Software Developer",
           company: "Freelance",
           company_url: "https://www.linkedin.com/in/japheth-joepari/",
           logo_path: "freecopy_logo.png",
-          duration: "Aug 2021 - Till Now",
+          duration: " Aug 2021 - Dec 2022",
           location: "Abia State, Nigeria",
           description: `Conducting research and working on the client-side of web applications using the best frontend tools. 
           Ensuring application security, code quality and performance. Communicating and collaborating with multi-disciplinary 
