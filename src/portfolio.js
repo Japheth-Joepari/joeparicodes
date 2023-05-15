@@ -437,14 +437,14 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "japheth.jpg",
+    profile_image_path: "my_art.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
     subtitle: "I enjoy writing and talking about my tech journey.",
-    link: "https://medium.com/@jeffevurulobi",
+    link: "https://dev.to/joepari_codes",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

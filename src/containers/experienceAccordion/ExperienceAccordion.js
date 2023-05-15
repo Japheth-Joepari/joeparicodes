@@ -9,9 +9,12 @@ class ExperienceAccordion extends Component {
     return (
       <div className="experience-accord">
         <Accordion>
+          <h2 style={{ textAlign: "center" }} theme={theme}>
+            <b>Work and Experiences 👨‍⚕️</b>
+          </h2>
           {this.props.sections.map((section) => {
             return (
-              <Panel
+              <div
                 className="accord-panel"
                 title={section["title"]}
                 key={section["title"]}
@@ -38,7 +41,7 @@ class ExperienceAccordion extends Component {
                     <ExperienceCard experience={experience} theme={theme} />
                   );
                 })}
-              </Panel>
+              </div>
             );
           })}
         </Accordion>

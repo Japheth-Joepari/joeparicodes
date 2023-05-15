@@ -23,19 +23,33 @@ class Header extends Component {
       <Fade top duration={1000} distance="20px">
         <SeoHeader />
         <div>
-          <header className="header">
+          <header
+            className="header"
+            style={{
+              width: "100vw",
+              color: "white",
+              padding: "1.3rem",
+            }}
+          >
             <NavLink to={link} tag={Link} className="logo">
-              <span style={{ color: theme.text }}> &lt;</span>
-              <span className="logo-name" style={{ color: theme.text }}>
+              <span style={{ color: "white" }}> &lt;</span>
+              <span className="logo-name" style={{ color: "white" }}>
                 {greeting.logo_name}
               </span>
-              <span style={{ color: theme.text }}>/&gt;</span>
+              <span style={{ color: "white" }}>/&gt;</span>
             </NavLink>
             <input className="menu-btn" type="checkbox" id="menu-btn" />
-            <label className="menu-icon" htmlFor="menu-btn">
+            <label
+              className="menu-icon"
+              htmlFor="menu-btn"
+              style={{ background: "white" }}
+            >
               <span className="navicon"></span>
             </label>
-            <ul className="menu" style={{ backgroundColor: theme.body }}>
+            <ul
+              className="menu"
+              style={{ backgroundColor: theme.body, borderRadius: "0.3rem" }}
+            >
               <li>
                 <NavLink
                   to="/home"

@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 
 const openSource = {
-  githubConvertedToken: "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",
+  githubConvertedToken: "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",
   githubUserName: "japheth-joepari",
 };
 

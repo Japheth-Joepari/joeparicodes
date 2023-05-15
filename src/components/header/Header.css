@@ -2,9 +2,10 @@
 
 .header {
   display: block;
-  max-width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
+  background-color: rgb(0, 1, 70);
+  color: white;
 }
 
 .header ul {
@@ -42,6 +43,7 @@
   font-family: "Agustina Regular";
   font-weight: bold;
   padding: 0 10px;
+  color: white;
   /* color: #55198b; */
 }
 
@@ -64,8 +66,13 @@
   display: inline-block;
   float: right;
   padding: 28px 20px;
+  border-radius: 0.3rem;
   position: relative;
   user-select: none;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  -ms-border-radius: 0.3rem;
+  -o-border-radius: 0.3rem;
 }
 
 .header .menu-icon .navicon {
