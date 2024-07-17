@@ -1,10 +1,10 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-const openSource = {
-  githubConvertedToken: "",
-  githubUserName: "japheth-joepari",
-};
+// const openSource = {
+//   githubConvertedToken: "",
+//   githubUserName: "japheth-joepari",
+// };
 
 const query_pr = {
   query: `
