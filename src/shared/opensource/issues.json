@@ -1,1 +1,47 @@
-{"data":[],"open":0,"closed":0,"totalCount":0}
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "I_kwDOOI49vc6vUFuC",
+      "closed": false,
+      "title": "Admin crud",
+      "createdAt": "2025-03-23T15:51:04Z",
+      "url": "https://github.com/Japheth-Joepari/grandpa_server/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "grandpa_server",
+        "url": "https://github.com/Japheth-Joepari/grandpa_server",
+        "owner": {
+          "login": "Japheth-Joepari",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOOI49vc6vUFZh",
+      "closed": false,
+      "title": "GrandPA issues",
+      "createdAt": "2025-03-23T15:48:35Z",
+      "url": "https://github.com/Japheth-Joepari/grandpa_server/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "grandpa_server",
+        "url": "https://github.com/Japheth-Joepari/grandpa_server",
+        "owner": {
+          "login": "Japheth-Joepari",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    }
+  ],
+  "open": 2,
+  "totalCount": 2
+}

@@ -1,1 +1,604 @@
-{"data":[{"id":"PR_kwDOJALqIM5wjGrO","title":"checkout test","url":"https://github.com/Japheth-Joepari/thoughts/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2024-05-25T11:13:29Z","number":1,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"thoughts","url":"https://github.com/Japheth-Joepari/thoughts","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOK1tm6M5tZs7f","title":"Chat UI ","url":"https://github.com/nulor/nulo-web/pull/3","state":"OPEN","mergedBy":null,"createdAt":"2024-04-22T21:19:16Z","number":3,"changedFiles":6,"additions":524,"deletions":7,"baseRepository":{"name":"nulo-web","url":"https://github.com/nulor/nulo-web","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/152920819?v=4","login":"nulor","url":"https://github.com/nulor"}}},{"id":"PR_kwDOK1tm6M5r9ED4","title":"[UPDATE] UPDATED CHANGES","url":"https://github.com/nulor/nulo-web/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2024-04-08T02:59:26Z","number":2,"changedFiles":15,"additions":7225,"deletions":6890,"baseRepository":{"name":"nulo-web","url":"https://github.com/nulor/nulo-web","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/152920819?v=4","login":"nulor","url":"https://github.com/nulor"}}},{"id":"PR_kwDOK1tm6M5rPwXm","title":"updated admin and property endpoints","url":"https://github.com/nulor/nulo-web/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2024-03-31T11:26:36Z","number":1,"changedFiles":6,"additions":41,"deletions":40,"baseRepository":{"name":"nulo-web","url":"https://github.com/nulor/nulo-web","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/152920819?v=4","login":"nulor","url":"https://github.com/nulor"}}},{"id":"PR_kwDOJysFzM5b20Rk","title":"[ADD] Implement User Logout API","url":"https://github.com/NexaScaleHQ/travel-app-project/pull/69","state":"OPEN","mergedBy":null,"createdAt":"2023-10-04T04:22:39Z","number":69,"changedFiles":3,"additions":8101,"deletions":0,"baseRepository":{"name":"travel-app-project","url":"https://github.com/NexaScaleHQ/travel-app-project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/125762967?v=4","login":"NexaScaleHQ","url":"https://github.com/NexaScaleHQ"}}},{"id":"PR_kwDOJwcLj85amylc","title":"Filter admins","url":"https://github.com/Japheth-Joepari/fiHomes/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-18T19:41:16Z","number":6,"changedFiles":35,"additions":1246,"deletions":429,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJwcLj85ab6kw","title":"Create google auth","url":"https://github.com/Japheth-Joepari/fiHomes/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-15T12:30:22Z","number":5,"changedFiles":7,"additions":81,"deletions":3,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJwcLj85abL1L","title":"Merge pull request #3 from Japheth-Joepari/update-validate-user-email","url":"https://github.com/Japheth-Joepari/fiHomes/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-15T10:12:56Z","number":4,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJwcLj85abLkO","title":"Merge pull request #2 from Japheth-Joepari/master","url":"https://github.com/Japheth-Joepari/fiHomes/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-15T10:12:08Z","number":3,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJwcLj85abLWg","title":"Merge pull request #1 from Japheth-Joepari/facebook-auth","url":"https://github.com/Japheth-Joepari/fiHomes/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-15T10:11:27Z","number":2,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJwcLj85aZtiJ","title":"updated facebook auth","url":"https://github.com/Japheth-Joepari/fiHomes/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-09-15T04:26:36Z","number":1,"changedFiles":6,"additions":82,"deletions":27,"baseRepository":{"name":"fiHomes","url":"https://github.com/Japheth-Joepari/fiHomes","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOJysFzM5aZV61","title":"[Create] Create Toilets table and model","url":"https://github.com/NexaScaleHQ/travel-app-project/pull/54","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-09-15T01:53:01Z","number":54,"changedFiles":3,"additions":7405,"deletions":8001,"baseRepository":{"name":"travel-app-project","url":"https://github.com/NexaScaleHQ/travel-app-project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/125762967?v=4","login":"NexaScaleHQ","url":"https://github.com/NexaScaleHQ"}}},{"id":"PR_kwDOJysFzM5Z9srZ","title":"[ADD] Updated existing users table","url":"https://github.com/NexaScaleHQ/travel-app-project/pull/40","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-09-11T00:05:42Z","number":40,"changedFiles":11,"additions":1050,"deletions":225,"baseRepository":{"name":"travel-app-project","url":"https://github.com/NexaScaleHQ/travel-app-project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/125762967?v=4","login":"NexaScaleHQ","url":"https://github.com/NexaScaleHQ"}}},{"id":"PR_kwDOJysFzM5XVTBw","title":"[ADD] Seed admin to database","url":"https://github.com/NexaScaleHQ/travel-app-project/pull/28","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-08-07T12:57:10Z","number":28,"changedFiles":3,"additions":300,"deletions":218,"baseRepository":{"name":"travel-app-project","url":"https://github.com/NexaScaleHQ/travel-app-project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/125762967?v=4","login":"NexaScaleHQ","url":"https://github.com/NexaScaleHQ"}}},{"id":"PR_kwDOJSGJQM5W9sg4","title":"Real time update delete","url":"https://github.com/emailgenius/frontend/pull/44","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-08-02T02:20:21Z","number":44,"changedFiles":10,"additions":815,"deletions":111,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5TzKoc","title":"39 integrate save email as draft endpoint","url":"https://github.com/emailgenius/frontend/pull/40","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-06-24T03:25:09Z","number":40,"changedFiles":6,"additions":442,"deletions":301,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5SAMDo","title":"Send Email issue completed","url":"https://github.com/emailgenius/frontend/pull/38","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-06-02T13:27:04Z","number":38,"changedFiles":10,"additions":511,"deletions":420,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5QVETl","title":"All changes Effected","url":"https://github.com/emailgenius/frontend/pull/35","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-05-11T20:34:41Z","number":35,"changedFiles":6,"additions":846,"deletions":768,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5QF0ze","title":"fixed the header issues navbar toggling now working","url":"https://github.com/emailgenius/frontend/pull/31","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-05-09T12:55:37Z","number":31,"changedFiles":5,"additions":224,"deletions":228,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5P0BON","title":"Generate email ","url":"https://github.com/emailgenius/frontend/pull/29","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-05-04T20:34:10Z","number":29,"changedFiles":6,"additions":311,"deletions":51,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5PS6Oo","title":"16 mod update login and registration pages with custom input components","url":"https://github.com/emailgenius/frontend/pull/24","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-04-27T13:09:12Z","number":24,"changedFiles":5,"additions":1038,"deletions":1135,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5O6j7-","title":"16 mod update login and registration pages with custom input components","url":"https://github.com/emailgenius/frontend/pull/18","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-04-22T12:56:57Z","number":18,"changedFiles":4,"additions":322,"deletions":278,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5OwJ7v","title":"Temp","url":"https://github.com/emailgenius/frontend/pull/9","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2023-04-20T10:13:54Z","number":9,"changedFiles":55,"additions":193,"deletions":7732,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOJSGJQM5OriEk","title":"commited all changes, updated the ui, scaffolded the dashboard","url":"https://github.com/emailgenius/frontend/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2023-04-19T14:39:45Z","number":8,"changedFiles":36,"additions":2739,"deletions":17,"baseRepository":{"name":"frontend","url":"https://github.com/emailgenius/frontend","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/129753247?v=4","login":"emailgenius","url":"https://github.com/emailgenius"}}},{"id":"PR_kwDOIIRo8M5B5S8a","title":"new changes comited, finished the dashboard setup with admin lte, re…","url":"https://github.com/davydocsurg/recipub-dashboard/pull/9","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2022-10-31T15:39:13Z","number":9,"changedFiles":114,"additions":111652,"deletions":2907,"baseRepository":{"name":"recipub-dashboard","url":"https://github.com/davydocsurg/recipub-dashboard","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","login":"davydocsurg","url":"https://github.com/davydocsurg"}}},{"id":"PR_kwDOICK3qc5A0IQb","title":"Changes1","url":"https://github.com/Japheth-Joepari/react_crud_app/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2022-10-14T12:46:56Z","number":1,"changedFiles":10,"additions":258,"deletions":31,"baseRepository":{"name":"react_crud_app","url":"https://github.com/Japheth-Joepari/react_crud_app","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOBsWnT85AnES9","title":"added my custom profile card to the index.html file","url":"https://github.com/Syknapse/Contribute-To-This-Project/pull/1942","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/107346172?u=5c389903dac921f5be691da977e9f18e68db46e9&v=4","url":"https://github.com/CandidDeer","login":"CandidDeer"},"createdAt":"2022-10-12T00:58:09Z","number":1942,"changedFiles":1,"additions":34,"deletions":0,"baseRepository":{"name":"Contribute-To-This-Project","url":"https://github.com/Syknapse/Contribute-To-This-Project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/29199184?u=db710e963353379d54aaac5c7741180b990cf984&v=4","login":"Syknapse","url":"https://github.com/Syknapse"}}},{"id":"PR_kwDOIIRo8M5AgnPu","title":"created the buyers form UI","url":"https://github.com/davydocsurg/recipub-dashboard/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2022-10-10T16:53:39Z","number":8,"changedFiles":5,"additions":351,"deletions":84,"baseRepository":{"name":"recipub-dashboard","url":"https://github.com/davydocsurg/recipub-dashboard","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","login":"davydocsurg","url":"https://github.com/davydocsurg"}}},{"id":"PR_kwDOIIRo8M5Ab0L-","title":"created a textArea component and commited all changes","url":"https://github.com/davydocsurg/recipub-dashboard/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2022-10-08T14:51:46Z","number":7,"changedFiles":4,"additions":951,"deletions":4,"baseRepository":{"name":"recipub-dashboard","url":"https://github.com/davydocsurg/recipub-dashboard","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","login":"davydocsurg","url":"https://github.com/davydocsurg"}}},{"id":"PR_kwDOIIRo8M5AaGMO","title":"added Feild Error Component","url":"https://github.com/davydocsurg/recipub-dashboard/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2022-10-07T16:34:55Z","number":5,"changedFiles":1,"additions":9,"deletions":0,"baseRepository":{"name":"recipub-dashboard","url":"https://github.com/davydocsurg/recipub-dashboard","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","login":"davydocsurg","url":"https://github.com/davydocsurg"}}},{"id":"PR_kwDOIIRo8M5AY9tz","title":"added a resuable  button","url":"https://github.com/davydocsurg/recipub-dashboard/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","url":"https://github.com/davydocsurg","login":"davydocsurg"},"createdAt":"2022-10-07T12:21:37Z","number":1,"changedFiles":2,"additions":851,"deletions":2,"baseRepository":{"name":"recipub-dashboard","url":"https://github.com/davydocsurg/recipub-dashboard","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4","login":"davydocsurg","url":"https://github.com/davydocsurg"}}},{"id":"PR_kwDOH3kPj8491xIO","title":"added redux to codebase","url":"https://github.com/Japheth-Joepari/ro_project/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2022-08-26T04:52:43Z","number":1,"changedFiles":9,"additions":223,"deletions":27,"baseRepository":{"name":"ro_project","url":"https://github.com/Japheth-Joepari/ro_project","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOH2NCCc49wMYK","title":"Update README.md","url":"https://github.com/Japheth-Joepari/Japheth-Joepari/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2022-08-24T22:21:26Z","number":1,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari/Japheth-Joepari","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"PR_kwDOH2UY1c49fbp3","title":"commited new changes","url":"https://github.com/Japheth-Joepari/pig-game-js/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2022-08-20T00:12:07Z","number":1,"changedFiles":1,"additions":77,"deletions":0,"baseRepository":{"name":"pig-game-js","url":"https://github.com/Japheth-Joepari/pig-game-js","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjg4MjcyMzYz","title":"New js file","url":"https://github.com/Japheth-Joepari/Lawrence_Assignments/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","url":"https://github.com/Japheth-Joepari","login":"Japheth-Joepari"},"createdAt":"2019-06-14T10:27:15Z","number":1,"changedFiles":2,"additions":0,"deletions":0,"baseRepository":{"name":"Lawrence_Assignments","url":"https://github.com/Japheth-Joepari/Lawrence_Assignments","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4","login":"Japheth-Joepari","url":"https://github.com/Japheth-Joepari"}}}],"open":2,"closed":0,"merged":33,"totalCount":35}
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOOI49vc6OxBPV",
+      "title": "[UPDATE] linked relationships between user, merchant, rfid, superadmi…",
+      "url": "https://github.com/Japheth-Joepari/grandpa_server/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2025-03-15T10:07:23Z",
+      "number": 1,
+      "changedFiles": 8,
+      "additions": 56,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "grandpa_server",
+        "url": "https://github.com/Japheth-Joepari/grandpa_server",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMOp3Xs6KiXvb",
+      "title": "[update] added auth and finalized the entire website",
+      "url": "https://github.com/Japheth-Joepari/membed_update/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2025-02-09T01:45:19Z",
+      "number": 1,
+      "changedFiles": 2346,
+      "additions": 2956,
+      "deletions": 248617,
+      "baseRepository": {
+        "name": "membed_update",
+        "url": "https://github.com/Japheth-Joepari/membed_update",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJALqIM5wjGrO",
+      "title": "checkout test",
+      "url": "https://github.com/Japheth-Joepari/thoughts/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2024-05-25T11:13:29Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "thoughts",
+        "url": "https://github.com/Japheth-Joepari/thoughts",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJysFzM5b20Rk",
+      "title": "[ADD] Implement User Logout API",
+      "url": "https://github.com/NexaScaleHQ/travel-app-project/pull/69",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2023-10-04T04:22:39Z",
+      "number": 69,
+      "changedFiles": 3,
+      "additions": 8101,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "travel-app-project",
+        "url": "https://github.com/NexaScaleHQ/travel-app-project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/125762967?v=4",
+          "login": "NexaScaleHQ",
+          "url": "https://github.com/NexaScaleHQ"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85amylc",
+      "title": "Filter admins",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-18T19:41:16Z",
+      "number": 6,
+      "changedFiles": 35,
+      "additions": 1246,
+      "deletions": 429,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85ab6kw",
+      "title": "Create google auth",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-15T12:30:22Z",
+      "number": 5,
+      "changedFiles": 7,
+      "additions": 81,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85abL1L",
+      "title": "Merge pull request #3 from Japheth-Joepari/update-validate-user-email",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-15T10:12:56Z",
+      "number": 4,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85abLkO",
+      "title": "Merge pull request #2 from Japheth-Joepari/master",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-15T10:12:08Z",
+      "number": 3,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85abLWg",
+      "title": "Merge pull request #1 from Japheth-Joepari/facebook-auth",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-15T10:11:27Z",
+      "number": 2,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJwcLj85aZtiJ",
+      "title": "updated facebook auth",
+      "url": "https://github.com/Japheth-Joepari/fiHomes/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2023-09-15T04:26:36Z",
+      "number": 1,
+      "changedFiles": 6,
+      "additions": 82,
+      "deletions": 27,
+      "baseRepository": {
+        "name": "fiHomes",
+        "url": "https://github.com/Japheth-Joepari/fiHomes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJysFzM5aZV61",
+      "title": "[Create] Create Toilets table and model",
+      "url": "https://github.com/NexaScaleHQ/travel-app-project/pull/54",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2023-09-15T01:53:01Z",
+      "number": 54,
+      "changedFiles": 3,
+      "additions": 7405,
+      "deletions": 8001,
+      "baseRepository": {
+        "name": "travel-app-project",
+        "url": "https://github.com/NexaScaleHQ/travel-app-project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/125762967?v=4",
+          "login": "NexaScaleHQ",
+          "url": "https://github.com/NexaScaleHQ"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJysFzM5Z9srZ",
+      "title": "[ADD] Updated existing users table",
+      "url": "https://github.com/NexaScaleHQ/travel-app-project/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2023-09-11T00:05:42Z",
+      "number": 40,
+      "changedFiles": 11,
+      "additions": 1050,
+      "deletions": 225,
+      "baseRepository": {
+        "name": "travel-app-project",
+        "url": "https://github.com/NexaScaleHQ/travel-app-project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/125762967?v=4",
+          "login": "NexaScaleHQ",
+          "url": "https://github.com/NexaScaleHQ"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJysFzM5XVTBw",
+      "title": "[ADD] Seed admin to database",
+      "url": "https://github.com/NexaScaleHQ/travel-app-project/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2023-08-07T12:57:10Z",
+      "number": 28,
+      "changedFiles": 3,
+      "additions": 300,
+      "deletions": 218,
+      "baseRepository": {
+        "name": "travel-app-project",
+        "url": "https://github.com/NexaScaleHQ/travel-app-project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/125762967?v=4",
+          "login": "NexaScaleHQ",
+          "url": "https://github.com/NexaScaleHQ"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIIRo8M5B5S8a",
+      "title": "new changes comited, finished the dashboard setup with admin lte, re…",
+      "url": "https://github.com/davydocsurg/recipub-dashboard/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2022-10-31T15:39:13Z",
+      "number": 9,
+      "changedFiles": 114,
+      "additions": 111652,
+      "deletions": 2907,
+      "baseRepository": {
+        "name": "recipub-dashboard",
+        "url": "https://github.com/davydocsurg/recipub-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+          "login": "davydocsurg",
+          "url": "https://github.com/davydocsurg"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOICK3qc5A0IQb",
+      "title": "Changes1",
+      "url": "https://github.com/Japheth-Joepari/react_crud_app/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2022-10-14T12:46:56Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 258,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "react_crud_app",
+        "url": "https://github.com/Japheth-Joepari/react_crud_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBsWnT85AnES9",
+      "title": "added my custom profile card to the index.html file",
+      "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/1942",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107346172?u=5c389903dac921f5be691da977e9f18e68db46e9&v=4",
+        "url": "https://github.com/CandidDeer",
+        "login": "CandidDeer"
+      },
+      "createdAt": "2022-10-12T00:58:09Z",
+      "number": 1942,
+      "changedFiles": 1,
+      "additions": 34,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Contribute-To-This-Project",
+        "url": "https://github.com/Syknapse/Contribute-To-This-Project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29199184?u=db710e963353379d54aaac5c7741180b990cf984&v=4",
+          "login": "Syknapse",
+          "url": "https://github.com/Syknapse"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIIRo8M5AgnPu",
+      "title": "created the buyers form UI",
+      "url": "https://github.com/davydocsurg/recipub-dashboard/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2022-10-10T16:53:39Z",
+      "number": 8,
+      "changedFiles": 5,
+      "additions": 351,
+      "deletions": 84,
+      "baseRepository": {
+        "name": "recipub-dashboard",
+        "url": "https://github.com/davydocsurg/recipub-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+          "login": "davydocsurg",
+          "url": "https://github.com/davydocsurg"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIIRo8M5Ab0L-",
+      "title": "created a textArea component and commited all changes",
+      "url": "https://github.com/davydocsurg/recipub-dashboard/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2022-10-08T14:51:46Z",
+      "number": 7,
+      "changedFiles": 4,
+      "additions": 951,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "recipub-dashboard",
+        "url": "https://github.com/davydocsurg/recipub-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+          "login": "davydocsurg",
+          "url": "https://github.com/davydocsurg"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIIRo8M5AaGMO",
+      "title": "added Feild Error Component",
+      "url": "https://github.com/davydocsurg/recipub-dashboard/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2022-10-07T16:34:55Z",
+      "number": 5,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "recipub-dashboard",
+        "url": "https://github.com/davydocsurg/recipub-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+          "login": "davydocsurg",
+          "url": "https://github.com/davydocsurg"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIIRo8M5AY9tz",
+      "title": "added a resuable  button",
+      "url": "https://github.com/davydocsurg/recipub-dashboard/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+        "url": "https://github.com/davydocsurg",
+        "login": "davydocsurg"
+      },
+      "createdAt": "2022-10-07T12:21:37Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 851,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "recipub-dashboard",
+        "url": "https://github.com/davydocsurg/recipub-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57722026?u=65ab43c0f85819f521cbffe81d23ee09fd0e4f3c&v=4",
+          "login": "davydocsurg",
+          "url": "https://github.com/davydocsurg"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH3kPj8491xIO",
+      "title": "added redux to codebase",
+      "url": "https://github.com/Japheth-Joepari/ro_project/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2022-08-26T04:52:43Z",
+      "number": 1,
+      "changedFiles": 9,
+      "additions": 223,
+      "deletions": 27,
+      "baseRepository": {
+        "name": "ro_project",
+        "url": "https://github.com/Japheth-Joepari/ro_project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH2NCCc49wMYK",
+      "title": "Update README.md",
+      "url": "https://github.com/Japheth-Joepari/Japheth-Joepari/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2022-08-24T22:21:26Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Japheth-Joepari",
+        "url": "https://github.com/Japheth-Joepari/Japheth-Joepari",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH2UY1c49fbp3",
+      "title": "commited new changes",
+      "url": "https://github.com/Japheth-Joepari/pig-game-js/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2022-08-20T00:12:07Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 77,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "pig-game-js",
+        "url": "https://github.com/Japheth-Joepari/pig-game-js",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Mjg4MjcyMzYz",
+      "title": "New js file",
+      "url": "https://github.com/Japheth-Joepari/Lawrence_Assignments/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+        "url": "https://github.com/Japheth-Joepari",
+        "login": "Japheth-Joepari"
+      },
+      "createdAt": "2019-06-14T10:27:15Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Lawrence_Assignments",
+        "url": "https://github.com/Japheth-Joepari/Lawrence_Assignments",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51114866?u=a862a51dc6eb8a24d23b0ced5802432e69f438d2&v=4",
+          "login": "Japheth-Joepari",
+          "url": "https://github.com/Japheth-Joepari"
+        }
+      }
+    }
+  ],
+  "merged": 23,
+  "open": 1,
+  "totalCount": 24
+}

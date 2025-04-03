@@ -11,7 +11,7 @@ const seo = {
   description:
     "Software Developer and Technical writer. using cutting edge technologies to learn and successfully deliver solutions to problems",
   og: {
-    title: "Japheth Joepari Portfolio",
+    title: "Japheth Jopari Portfolio",
     type: "website",
     url: "http://joeparicodes.vercel.app",
   },
@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Japheth Joepari",
-  logo_name: "japhethJoepari",
-  nickname: "Joepari_Codes",
+  title: "Japheth Jopari",
+  logo_name: "japhethJopari",
+  nickname: "Jopari_Codes",
   subTitle:
     "Full Stack Laravel and React Developer with a passion for product innovation and code excellence. Committed to enhancing code reusability and continuously striving for professional growth.",
   resumeLink:
@@ -54,7 +54,7 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/Joepari_Codes",
+    link: "https://twitter.com/Jopari_Codes",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -203,54 +203,54 @@ const skills = {
         },
       ],
     },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
+    {
+      title: "UI/UX Design",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Designing highly attractive user interface for mobile and web applications",
+        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Creating the flow of application functionalities to optimize user experience",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          style: {
+            color: "#FF7C00",
+          },
+        },
 
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
+        {
+          skillName: "Inkscape",
+          fontAwesomeClassname: "simple-icons:inkscape",
+          style: {
+            color: "#000000",
+          },
+        },
 
-    //     {
-    //       skillName: "Adobe Photoshop",
-    //       fontAwesomeClassname: "simple-icons:adobephotoshop",
-    //       style: {
-    //         color: "##202A44",
-    //       },
-    //     },
-    //   ],
-    // },
+        {
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "simple-icons:adobephotoshop",
+          style: {
+            color: "##202A44",
+          },
+        },
+      ],
+    },
   ],
 };
 
@@ -378,16 +378,15 @@ const experience = {
       experiences: [
         {
           title: "Fullstack Laravel developer",
-          company: "Embedded Tech Lab",
+          company: "MEmbedded Tech Lab",
           company_url: "#",
           logo_path: "memlogo.png",
-          duration: "Sep 2023 - April 2024",
+          duration: "Nov 2023 - Jan 2025",
           location: "Remote",
-          description: `As a Full Stack Laravel Developer at Embedded Tech Lab, I spearheaded the development of the Embedded Techs Labs web application.
-           This crucial tool provides Hardware developers with vital insights into hardware performance, facilitating efficient hardware management
-            through real-time data retrieval and visualization capabilities using laravel. I significantly contributed to MEmbedded Tech Lab’s product offerings, 
-            providing embedded developers with a powerful tool for real-time hardware performance analysis and management. This project underscored my 
-            expertise in full stack development, showcasing my ability to deliver high-quality, impactful web applications.`,
+          description: ` Led a cross-functional team, ensuring smooth front-end and back-end integration,
+              Developed  hardware management systems that optimized device tracking and real-time data processing.
+              Designed REST APIs for seamless hardware-to-software communication. 
+              Optimized MySQL queries, improving performance by 30%.`,
           color: "#fc1f20",
         },
         {
@@ -397,12 +396,10 @@ const experience = {
           logo_path: "freecopy_logo.png",
           duration: "September 2021 - July 2023",
           location: "Abia State, Nigeria",
-          description: `Conducting research and working on the client-side of web applications using the best frontend tools. 
-          Ensuring application security, code quality and performance. Communicating and collaborating with multi-disciplinary 
-          teams of engineers, designers, and other stakeholders on a daily basis to improve the workflow process. 
-          Building and integrating reusable and responsive React components for both users and admin dashboard. 
-          Architected a user platform with real-time responses using tools like Webpack and Pusher. 
-          Helping team mates debug errors on their codes. Merging conflicts that arise from the git collab merge.`,
+          description: `Built scalable Laravel applications for 5+ clients, ensuring security, performance, and  best practices
+            Reduced API response times by 30% using Redis caching and optimized queries.
+            Developed real-time features (chat, notifications) using WebSockets and Laravel Echo.
+            `,
           color: "#fc1f20",
         },
         {
@@ -410,10 +407,12 @@ const experience = {
           company: "Innovation Growth Hub",
           company_url: "https://ighub.ng/",
           logo_path: "ighub.jpg",
-          duration: "Oct 2019 - Jul 2021",
+          duration: "October 2019 - July 2021",
           location: "Abia State, Nigeria",
-          description: `Contributed to code bases, Added new features and ensured that it was up-to-date in terms of structure, 
-          security, browser and device compatibility.`,
+          description: `Assisted in developing Laravel-based applications, collaborating with senior developers.
+          Debugged and resolved over 50+ reported issues, improving platform stability..
+          Developed database migration scripts for seamless data integration.
+          `,
           color: "#0879bf",
         },
 
@@ -459,7 +458,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle: "I enjoy writing and talking about my tech journey.",
-    link: "https://dev.to/joepari_codes",
+    link: "https://dev.to/Jopari_Codes",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
